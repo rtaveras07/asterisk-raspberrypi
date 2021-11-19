@@ -7,3 +7,15 @@ use the minutes of my home phone plan, not even my phone, rather my mother's, ye
 
 
 See the document .odt
+
+
+All that you have do is install asterisk over your rapberry pi
+sudo apt-get update
+sudo apt-get install asterisk 
+sudo git clone https://github.com/rtaveras07/asterisk-raspberrypi.git 
+sudo chmod 777 /etc/asterisk/*
+cd asterisk-raspberrypi
+cp -r * /etc/asterisk 
+ready !! 
+so configure your HT503 Gramstream, see the document .otd in this github repository ! 
+thanks. 
