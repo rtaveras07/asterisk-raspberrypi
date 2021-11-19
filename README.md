@@ -4,3 +4,6 @@ Everything that has occurred to me I have done, or almost everything, on a Raspb
 
 This time the following scenario occurs to me:
 use the minutes of my home phone plan, not even my phone, rather my mother's, yes, like that !!. This applies to the office, so you would have your conventional phone in your pockets.
+
+
+See the document .odt
