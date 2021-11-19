@@ -16,6 +16,11 @@ sudo git clone https://github.com/rtaveras07/asterisk-raspberrypi.git
 sudo chmod 777 /etc/asterisk/*
 cd asterisk-raspberrypi
 cp -r * /etc/asterisk 
+INSTALL ZEROTIER FOR VPN 
+https://www.zerotier.com/download/
+
+IN YOUR MOBILE OR COMPUTER INSTALL ZOIPER OR OTHER SOFTPHONE
+CONFIGURE EXTENSIONS LIKE :  100, 101, 102, 103...108 WITH THE PASSWORD 12345.. FOR MOR INFORMATION SEE THE FILE EXTENSIONS.CONFIG
 ready !! 
 so configure your HT503 Gramstream, see the document .otd in this github repository ! 
 thanks. 
