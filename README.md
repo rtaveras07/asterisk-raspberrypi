@@ -16,6 +16,7 @@ sudo git clone https://github.com/rtaveras07/asterisk-raspberrypi.git
 sudo chmod 777 /etc/asterisk/*
 cd asterisk-raspberrypi
 cp -r * /etc/asterisk 
+(get the correct permitions)
 INSTALL ZEROTIER FOR VPN 
 https://www.zerotier.com/download/
 
